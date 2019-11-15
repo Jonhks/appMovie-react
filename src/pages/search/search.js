@@ -32,7 +32,6 @@ const Search =  (props) => {
     urlParam.s = e.target.value
     history.push(`?${queryString.stringify(urlParam)}`)
     setSeacrhValue(e.target.value)
-    console.log(urlParam)
   }
 
 return (
