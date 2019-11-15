@@ -7,7 +7,7 @@ export default () => {
   const { Footer } = Layout
   return (
     <Footer className="footer">
-      <p>Jonh Parra</p>
+      <p>🎥 Movie App  </p>
     </Footer>
   )
 }
