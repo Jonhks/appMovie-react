@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Jonhks/appMovie-react/static/css/main.45300de6.chunk.css",
+    "main.js": "/Jonhks/appMovie-react/static/js/main.1e7b6e74.chunk.js",
+    "main.js.map": "/Jonhks/appMovie-react/static/js/main.1e7b6e74.chunk.js.map",
+    "runtime-main.js": "/Jonhks/appMovie-react/static/js/runtime-main.ad700ea8.js",
+    "runtime-main.js.map": "/Jonhks/appMovie-react/static/js/runtime-main.ad700ea8.js.map",
+    "static/css/2.c4f6c301.chunk.css": "/Jonhks/appMovie-react/static/css/2.c4f6c301.chunk.css",
+    "static/js/2.a2413678.chunk.js": "/Jonhks/appMovie-react/static/js/2.a2413678.chunk.js",
+    "static/js/2.a2413678.chunk.js.map": "/Jonhks/appMovie-react/static/js/2.a2413678.chunk.js.map",
+    "index.html": "/Jonhks/appMovie-react/index.html",
+    "precache-manifest.ee2ea76a712b8e875155dbfe899e207c.js": "/Jonhks/appMovie-react/precache-manifest.ee2ea76a712b8e875155dbfe899e207c.js",
+    "service-worker.js": "/Jonhks/appMovie-react/service-worker.js",
+    "static/css/2.c4f6c301.chunk.css.map": "/Jonhks/appMovie-react/static/css/2.c4f6c301.chunk.css.map",
+    "static/css/main.45300de6.chunk.css.map": "/Jonhks/appMovie-react/static/css/main.45300de6.chunk.css.map",
+    "static/media/logo.cb90c5bd.svg": "/Jonhks/appMovie-react/static/media/logo.cb90c5bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad700ea8.js",
+    "static/css/2.c4f6c301.chunk.css",
+    "static/js/2.a2413678.chunk.js",
+    "static/css/main.45300de6.chunk.css",
+    "static/js/main.1e7b6e74.chunk.js"
+  ]
+}
