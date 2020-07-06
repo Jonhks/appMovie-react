@@ -23,7 +23,6 @@ export default () => {
 
   const onChangePage = page => setPage(page)
 
-
   return (
     <Row>
       <Col span={24} style={{ textAlign: "center", marginTop:25 }}>
